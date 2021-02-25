@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/blog/</loc>
+    <loc>https://redaim32.github.io/blog/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://redaim32.github.io/blog/blog/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog/em-thanh-loan/</loc>
+    <loc>https://redaim32.github.io/blog/categories/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://redaim32.github.io/blog/blog/em-thanh-loan/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/loan/</loc>
+    <loc>https://redaim32.github.io/blog/categories/loan/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/love/</loc>
+    <loc>https://redaim32.github.io/blog/tags/love/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://redaim32.github.io/blog/tags/</loc>
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/itemized/item1/</loc>
+    <loc>https://redaim32.github.io/blog/itemized/item1/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/itemized/item2/</loc>
+    <loc>https://redaim32.github.io/blog/itemized/item2/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/itemized/item3/</loc>
+    <loc>https://redaim32.github.io/blog/itemized/item3/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/itemized/item4/</loc>
+    <loc>https://redaim32.github.io/blog/itemized/item4/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/itemized/</loc>
+    <loc>https://redaim32.github.io/blog/itemized/</loc>
     <lastmod>2017-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://redaim32.github.io/blog/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://redaim32.github.io/blog/contact/</loc>
   </url>
 </urlset>

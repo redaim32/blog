@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Future Imperfect</title>
-    <link>/</link>
-    <description>Recent content on Hugo Future Imperfect</description>
+    <title>B1og Đồ án</title>
+    <link>https://redaim32.github.io/blog/</link>
+    <description>Recent content on B1og Đồ án</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://redaim32.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Em Thanh Loan xấu xí</title>
-      <link>/blog/em-thanh-loan/</link>
+      <link>https://redaim32.github.io/blog/blog/em-thanh-loan/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/blog/em-thanh-loan/</guid>
+      <guid>https://redaim32.github.io/blog/blog/em-thanh-loan/</guid>
       <description> Nhưng mà a vẫn iu e nhất. </description>
     </item>
     
     <item>
       <title>Fancy App 1</title>
-      <link>/itemized/item1/</link>
+      <link>https://redaim32.github.io/blog/itemized/item1/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/itemized/item1/</guid>
+      <guid>https://redaim32.github.io/blog/itemized/item1/</guid>
       <description>App 1 </description>
     </item>
     
     <item>
       <title>Fancy App 2</title>
-      <link>/itemized/item2/</link>
+      <link>https://redaim32.github.io/blog/itemized/item2/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/itemized/item2/</guid>
+      <guid>https://redaim32.github.io/blog/itemized/item2/</guid>
       <description>App 2 </description>
     </item>
     
     <item>
       <title>Fancy App 3</title>
-      <link>/itemized/item3/</link>
+      <link>https://redaim32.github.io/blog/itemized/item3/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/itemized/item3/</guid>
+      <guid>https://redaim32.github.io/blog/itemized/item3/</guid>
       <description>App 3 </description>
     </item>
     
     <item>
       <title>Fancy App 4</title>
-      <link>/itemized/item4/</link>
+      <link>https://redaim32.github.io/blog/itemized/item4/</link>
       <pubDate>Thu, 22 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/itemized/item4/</guid>
+      <guid>https://redaim32.github.io/blog/itemized/item4/</guid>
       <description>App 4 </description>
     </item>
     
